@@ -1,5 +1,8 @@
-# Your wiki name
+[gimmick:theme](slate)
+# CG 42
 
-[Home](home.md)
-[About](about.md)
-[Download](download.md)
+[CritGamer]()
+
+  * [LanCache](lancache.md)
+
+[Menu Item 2](item2.md)

@@ -1,4 +1,4 @@
-Heading
+CG 42 Wiki
 =======
 
 SubHeading
@@ -11,3 +11,6 @@ SubHeading
 
   Images are like hyperlinks, but with an exclamation mark in front of them:
   ![](http://placekitten.com/g/250/250)
+
+Test
+----
