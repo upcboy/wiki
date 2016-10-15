@@ -1,0 +1,2 @@
+# wiki
+Just my wiki
