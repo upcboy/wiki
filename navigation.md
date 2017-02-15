@@ -5,4 +5,4 @@
 
   * [LanCache](lancache.md)
 
-[Min](/media/min.wav)
+[Min](media\min.wav)
