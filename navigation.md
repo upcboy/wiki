@@ -6,7 +6,8 @@
   * [LanCache](lancache.md)
 
 [Random Notes]()
-  *  [MSC](msc.md)
+
+  * [Windows MSC](msc.md)
 
 [Min](media\min.wav)
 
