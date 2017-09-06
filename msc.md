@@ -1,22 +1,22 @@
 Random MSC
 -------------------
--azman.msc : Authorization Manager snap-in
--certmgr.msc : Certificate Manager 
--comexp.msc : Component Services Manager
--compmgmt.msc : Computer Management 
--devmgmt.msc : Device Manager
--diskmgmt.msc : Disk Management
--eventvwr.msc : Event Viewer 
--fsmgmt.msc : Shared Folders Management
--gpedit.msc : Local Group Policy Editor 
--lusrmgr.msc : Local Users and Groups 
--NAPCLCFG.MSC : NAP Client Configuration
--perfmon.msc : Reliability and Performance Monitor 
--printmanagement.msc : Print Management
--rsop.msc : Resultant Set of Policy 
--secpol.msc : Local Security Policy 
--services.msc : Services (Snap-in) non-DLL based
--taskschd.msc : Task Scheduler 
--tpm.msc : Trusted Platform Module (TPM) on Local Computer
--WF.msc : Windows Firewall with Advanced Security on Local Computer
--WmiMgmt.msc : WMI Control (Local)
+- azman.msc : Authorization Manager snap-in
+- certmgr.msc : Certificate Manager 
+- comexp.msc : Component Services Manager
+- compmgmt.msc : Computer Management 
+- devmgmt.msc : Device Manager
+- diskmgmt.msc : Disk Management
+- eventvwr.msc : Event Viewer 
+- fsmgmt.msc : Shared Folders Management
+- gpedit.msc : Local Group Policy Editor 
+- lusrmgr.msc : Local Users and Groups 
+- NAPCLCFG.MSC : NAP Client Configuration
+- perfmon.msc : Reliability and Performance Monitor 
+- printmanagement.msc : Print Management
+- rsop.msc : Resultant Set of Policy 
+- secpol.msc : Local Security Policy 
+- services.msc : Services (Snap-in) non-DLL based
+- taskschd.msc : Task Scheduler 
+- tpm.msc : Trusted Platform Module (TPM) on Local Computer
+- WF.msc : Windows Firewall with Advanced Security on Local Computer
+- WmiMgmt.msc : WMI Control (Local)
