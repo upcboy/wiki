@@ -1,3 +1,3 @@
-CG 42 Wiki
+Drunk Orc
 =======
-This is just a random Wiki I have for personal use.
+This is just a random site I have for personal use.
