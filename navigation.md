@@ -1,7 +1,7 @@
 [gimmick:theme](slate)
-# CG 42
+# Drunk Orc
 
-[CritGamer]()
+[Linux]()
 
   * [LanCache](lancache.md)
 
